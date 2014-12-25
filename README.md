@@ -12,7 +12,6 @@ TO RUN:
 3. Run Each Cell in Order (The last cell will output the visualization)
  
 NOTES:
-- To change the query, see the specifications in the 4th cell (variable "q" in particular)
--- Any hashtags in "q" must be added to q_hashtags list
+- To change the query, see the specifications in the 4th cell (variable "q" in particular). Any hashtags in "q" must be added to q_hashtags list
 - Cell 4 actually makes the call to the Twitter API. This will take time. This may also be rate limited (dev.twitter.com/rest/public/rate-limiting)
 
