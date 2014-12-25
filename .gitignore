@@ -1,2 +1,4 @@
 #exclude checkpoints
 .ipynb_checkpoints/*
+twitter_auth*
+sandbox.ipynb
